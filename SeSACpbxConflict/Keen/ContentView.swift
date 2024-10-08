@@ -13,11 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-<<<<<<<< HEAD:SeSACpbxConflict/Keen/ContentView.swift
             Text("Hello, Keen!")
-========
-            Text("Hello, Yegr!")
->>>>>>>> 73544b3afa3e977fb5f12bdfa661a4b5e124c31a:SeSACpbxConflict/Yegr/ContentView.swift
         }
         .padding()
     }
